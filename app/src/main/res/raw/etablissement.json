@@ -1,0 +1,24 @@
+{
+  "nom": "ISMO TETOUAN",
+  "adresse":"Tetouan",
+  "filiere" : [
+    {
+      "nom": "TDI",
+      "nomcomplet": "Techniques de developpement informatique",
+      "nivea": "TS",
+      "nombreModule": 23
+    },
+    {
+      "nom": "TRI",
+      "nomcomplet": "Techniques des reseaux informatique",
+      "nivea": "TS",
+      "nombreModule": 19
+    },
+    {
+      "nom": "INFO",
+      "nomcomplet": "INFOGRAPHIE",
+      "nivea": "TS",
+      "nombreModule": 21
+    }
+  ]
+}
