@@ -1,0 +1,26 @@
+[
+  {
+    "nom": "AZIZ",
+    "prenom": "ALAG",
+    "salaire": 12323,
+    "adresse": "casa"
+  },
+  {
+    "nom": "RIAD",
+    "prenom": "tttt",
+    "salaire": 54545,
+    "adresse": "TET"
+  },
+  {
+    "nom": "ZAID",
+    "prenom": "uuu",
+    "salaire": 43434,
+    "adresse": "RABAT"
+  },
+  {
+    "nom": "MAN",
+    "prenom": "dsds",
+    "salaire": 3343,
+    "adresse": "AGADIR"
+  }
+]
